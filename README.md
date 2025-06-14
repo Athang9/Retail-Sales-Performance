@@ -21,7 +21,7 @@ This project simulates a real-world Business Intelligence system for a retail co
 
 ## 📸 Dashboard Preview
 
-![dashboard](path/to/your/screenshot.png)
+![dashboard](Dashboard.png)
 
 ## 📄 Dataset
 
